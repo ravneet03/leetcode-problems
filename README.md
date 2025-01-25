@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ravneet03/leetcode-problems/tree/master/0012-integer-to-roman) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ravneet03/leetcode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -27,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ravneet03/leetcode-problems/tree/master/0012-integer-to-roman) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ravneet03/leetcode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ravneet03/leetcode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
