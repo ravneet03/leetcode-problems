@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ravneet03/leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ravneet03/leetcode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3429-special-array-i](https://github.com/ravneet03/leetcode-problems/tree/master/3429-special-array-i) |
 ## Union Find
