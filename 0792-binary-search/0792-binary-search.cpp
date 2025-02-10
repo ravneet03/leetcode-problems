@@ -1,19 +1,20 @@
 class Solution {
 public:
+    int searchHelper(vector<int>& nums, int s, int e, int k) {
+        if (s > e) 
+            return -1; 
+
+        int mid = s + (e - s) / 2;
+
+        if (nums[mid] == k)
+            return mid;
+        else if (nums[mid] < k)
+            return searchHelper(nums, mid + 1, e, k);
+        else
+            return searchHelper(nums, s, mid - 1, k);
+    }
+
     int search(vector<int>& nums, int k) {
-        int s = 0, e = nums.size() - 1;
-
-        while (s <= e) {
-            int mid = s + (e - s) / 2;
-
-            if (nums[mid] == k)
-                return mid;
-            else if (nums[mid] < k)
-                s = mid + 1;
-            else
-                e = mid - 1;
-        }
-
-        return -1;
+        return searchHelper(nums, 0, nums.size() - 1, k);
     }
 };
