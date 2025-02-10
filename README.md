@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ravneet03/leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/ravneet03/leetcode-problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ravneet03/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ravneet03/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/ravneet03/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ravneet03/leetcode-problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/ravneet03/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
