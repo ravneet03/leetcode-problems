@@ -1,17 +1,25 @@
 class Solution {
 public:
-    int maximumSum(vector<int>& nums) {
-        int max[82] = {0};
-        int ans = -1;
-        for (int x : nums) {
-            int sum = 0, temp = x;
-            while (temp != 0) {
-                sum += temp % 10;
-                temp /= 10;
-            }
-            if (max[sum] != 0) ans = std::max(ans, x + max[sum]);
-            max[sum] = std::max(max[sum], x);
+    int sumDigits(int numb) {
+        int sum=0;
+        while(numb) {
+            sum+=numb%10;
+            numb/=10;
         }
-        return ans;
+        return sum;
+    }
+    int maximumSum(vector<int>& nums) {
+        vector<int> sameDigit(82, -1);
+        int sum, maxSum=-1;
+        for(int i=0; i<nums.size(); i++) {
+            sum=sumDigits(nums[i]);
+            if(sameDigit[sum]!=-1) {
+                maxSum=max(maxSum, sameDigit[sum]+nums[i]);
+                sameDigit[sum]=max(sameDigit[sum], nums[i]);
+            } else {
+                sameDigit[sum]=nums[i];
+            }
+        }
+        return maxSum;
     }
 };
