@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ravneet03/leetcode-problems/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/ravneet03/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravneet03/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0792-binary-search](https://github.com/ravneet03/leetcode-problems/tree/master/0792-binary-search) |
@@ -123,5 +124,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ravneet03/leetcode-problems/tree/master/0078-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ravneet03/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ravneet03/leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
