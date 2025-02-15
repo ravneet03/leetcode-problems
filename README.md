@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ravneet03/leetcode-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ravneet03/leetcode-problems/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/ravneet03/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravneet03/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravneet03/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/ravneet03/leetcode-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ravneet03/leetcode-problems/tree/master/0078-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ravneet03/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
