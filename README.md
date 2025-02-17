@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ravneet03/leetcode-problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ravneet03/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravneet03/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ravneet03/leetcode-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ravneet03/leetcode-problems/tree/master/0078-subsets) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ravneet03/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ravneet03/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ravneet03/leetcode-problems/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ravneet03/leetcode-problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
