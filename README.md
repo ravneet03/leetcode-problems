@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ravneet03/leetcode-problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravneet03/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ravneet03/leetcode-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ravneet03/leetcode-problems/tree/master/0078-subsets) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ravneet03/leetcode-problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ravneet03/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravneet03/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1160-letter-tile-possibilities](https://github.com/ravneet03/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
