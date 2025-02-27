@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ravneet03/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravneet03/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ravneet03/leetcode-problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ravneet03/leetcode-problems/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/ravneet03/leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ravneet03/leetcode-problems/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/ravneet03/leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ravneet03/leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/ravneet03/leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ravneet03/leetcode-problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ravneet03/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ravneet03/leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ravneet03/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ravneet03/leetcode-problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
