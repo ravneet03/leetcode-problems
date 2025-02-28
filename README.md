@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ravneet03/leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ravneet03/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ravneet03/leetcode-problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravneet03/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ravneet03/leetcode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ravneet03/leetcode-problems/tree/master/0048-rotate-image) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravneet03/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ravneet03/leetcode-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ravneet03/leetcode-problems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ravneet03/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/ravneet03/leetcode-problems/tree/master/1894-merge-strings-alternately) |
