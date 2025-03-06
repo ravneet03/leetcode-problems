@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ravneet03/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ravneet03/leetcode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ravneet03/leetcode-problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ravneet03/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ravneet03/leetcode-problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ravneet03/leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ravneet03/leetcode-problems/tree/master/0078-subsets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ravneet03/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ravneet03/leetcode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ravneet03/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ravneet03/leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ravneet03/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Breadth-First Search
 |  |
