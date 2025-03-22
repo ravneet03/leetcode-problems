@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/ravneet03/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ravneet03/leetcode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ravneet03/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Sorting
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ravneet03/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/ravneet03/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -291,10 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ravneet03/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/ravneet03/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ravneet03/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/ravneet03/leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ravneet03/leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Matrix
 |  |
