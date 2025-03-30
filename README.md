@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ravneet03/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravneet03/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/ravneet03/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0768-partition-labels](https://github.com/ravneet03/leetcode-problems/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ravneet03/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ravneet03/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ravneet03/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravneet03/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/ravneet03/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0768-partition-labels](https://github.com/ravneet03/leetcode-problems/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ravneet03/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/ravneet03/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ravneet03/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ravneet03/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ravneet03/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0768-partition-labels](https://github.com/ravneet03/leetcode-problems/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/ravneet03/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ravneet03/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ravneet03/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravneet03/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ravneet03/leetcode-problems/tree/master/0055-jump-game) |
+| [0768-partition-labels](https://github.com/ravneet03/leetcode-problems/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ravneet03/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ravneet03/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Interactive
