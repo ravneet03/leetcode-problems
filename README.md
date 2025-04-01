@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/ravneet03/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ravneet03/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ravneet03/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1829-maximum-units-on-a-truck](https://github.com/ravneet03/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ravneet03/leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ravneet03/leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ravneet03/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ravneet03/leetcode-problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ravneet03/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [1829-maximum-units-on-a-truck](https://github.com/ravneet03/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ravneet03/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ravneet03/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ravneet03/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ravneet03/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ravneet03/leetcode-problems/tree/master/0055-jump-game) |
 | [0768-partition-labels](https://github.com/ravneet03/leetcode-problems/tree/master/0768-partition-labels) |
+| [1829-maximum-units-on-a-truck](https://github.com/ravneet03/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ravneet03/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/ravneet03/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ravneet03/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
