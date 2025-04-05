@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ravneet03/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ravneet03/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ravneet03/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1585-the-kth-factor-of-n](https://github.com/ravneet03/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ravneet03/leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ravneet03/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ravneet03/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/ravneet03/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ravneet03/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ravneet03/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
