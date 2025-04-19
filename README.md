@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ravneet03/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravneet03/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/ravneet03/leetcode-problems/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/ravneet03/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0768-partition-labels](https://github.com/ravneet03/leetcode-problems/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
