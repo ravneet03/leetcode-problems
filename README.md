@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ravneet03/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravneet03/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ravneet03/leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/ravneet03/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ravneet03/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/ravneet03/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ravneet03/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ravneet03/leetcode-problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ravneet03/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ravneet03/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/ravneet03/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [1829-maximum-units-on-a-truck](https://github.com/ravneet03/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravneet03/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/ravneet03/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravneet03/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ravneet03/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ravneet03/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0768-partition-labels](https://github.com/ravneet03/leetcode-problems/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ravneet03/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ravneet03/leetcode-problems/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/ravneet03/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ravneet03/leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ravneet03/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ravneet03/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ravneet03/leetcode-problems/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ravneet03/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Breadth-First Search
