@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ravneet03/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ravneet03/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ravneet03/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/ravneet03/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0368-largest-divisible-subset](https://github.com/ravneet03/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ravneet03/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0792-binary-search](https://github.com/ravneet03/leetcode-problems/tree/master/0792-binary-search) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ravneet03/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ravneet03/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ravneet03/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ravneet03/leetcode-problems/tree/master/2681-put-marbles-in-bags) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ravneet03/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ravneet03/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ravneet03/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ravneet03/leetcode-problems/tree/master/2478-longest-nice-subarray) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ravneet03/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravneet03/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Topological Sort
 |  |
@@ -478,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/ravneet03/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ravneet03/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
