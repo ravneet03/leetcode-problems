@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ravneet03/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ravneet03/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/ravneet03/leetcode-problems/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ravneet03/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ravneet03/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ravneet03/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -295,10 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/ravneet03/leetcode-problems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ravneet03/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/ravneet03/leetcode-problems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ravneet03/leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ravneet03/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravneet03/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/ravneet03/leetcode-problems/tree/master/0937-online-stock-span) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ravneet03/leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
