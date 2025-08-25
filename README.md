@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ravneet03/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ravneet03/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/ravneet03/leetcode-problems/tree/master/0368-largest-divisible-subset) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ravneet03/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1829-maximum-units-on-a-truck](https://github.com/ravneet03/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ravneet03/leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ravneet03/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/ravneet03/leetcode-problems/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ravneet03/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ravneet03/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/ravneet03/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravneet03/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/ravneet03/leetcode-problems/tree/master/1364-tuple-with-same-product) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ravneet03/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ravneet03/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravneet03/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ravneet03/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ravneet03/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ravneet03/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravneet03/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ravneet03/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ravneet03/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ravneet03/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravneet03/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Divide and Conquer
@@ -421,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ravneet03/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ravneet03/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravneet03/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ravneet03/leetcode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ravneet03/leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
