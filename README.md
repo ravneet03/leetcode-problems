@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ravneet03/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ravneet03/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/ravneet03/leetcode-problems/tree/master/0498-diagonal-traverse) |
+| [0704-binary-search](https://github.com/ravneet03/leetcode-problems/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/ravneet03/leetcode-problems/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ravneet03/leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ravneet03/leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ravneet03/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/ravneet03/leetcode-problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ravneet03/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/ravneet03/leetcode-problems/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/ravneet03/leetcode-problems/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ravneet03/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ravneet03/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
