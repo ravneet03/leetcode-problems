@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ravneet03/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ravneet03/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ravneet03/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/ravneet03/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/ravneet03/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ravneet03/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/ravneet03/leetcode-problems/tree/master/0498-diagonal-traverse) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ravneet03/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ravneet03/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ravneet03/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ravneet03/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ravneet03/leetcode-problems/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/ravneet03/leetcode-problems/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/ravneet03/leetcode-problems/tree/master/1894-merge-strings-alternately) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ravneet03/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ravneet03/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/ravneet03/leetcode-problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ravneet03/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ravneet03/leetcode-problems/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ravneet03/leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ravneet03/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ravneet03/leetcode-problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/ravneet03/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/ravneet03/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ravneet03/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ravneet03/leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/ravneet03/leetcode-problems/tree/master/2478-longest-nice-subarray) |
